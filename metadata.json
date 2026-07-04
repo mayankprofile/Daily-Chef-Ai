@@ -1,0 +1,6 @@
+{
+  "name": "Daily Chef AI",
+  "description": "A personalized daily meal planning assistant that suggests budget-friendly recipes based on your preferences, schedule, and available ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
